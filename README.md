@@ -1,6 +1,5 @@
 # Parallelized-Polygon-Approximation-with-Evolutionary-Strategies
 
-This project implements a parallel (μ + λ) evolutionary algorithm for 3D shape approximation using MPI. It evaluates the fitness of candidate solutions (individuals) in parallel across multiple processes to accelerate convergence.
 
 ## About this proyect
 
@@ -9,6 +8,12 @@ Final proyect for the class of of High Performance Computing at UNAM ENES Unidad
 ## Author
 
 Diego Maldonado Castro: diegomaldonadocastro1805@gmail.com
+
+## Introduction
+
+This project implements a parallel (μ + λ) evolutionary algorithm for 3D shape approximation using MPI. It evaluates the fitness of candidate solutions (individuals) in parallel across multiple processes to accelerate convergence. 
+
+
 
 ## Features
 
@@ -53,5 +58,9 @@ mpiexec -np #_of_cores ./ee_algorithm
 <img width="747" alt="Screenshot 2025-05-21 at 12 12 59 p m" src="https://github.com/user-attachments/assets/9b790115-b3d7-4543-a9dc-cc020ec6304c" />
 
 
+
 Example of a 100 point individual approximating a sphere.
 
+## Bibliography
+
+- Open MPI: open-mpi.org
