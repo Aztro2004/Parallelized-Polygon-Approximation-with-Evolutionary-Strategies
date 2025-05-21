@@ -47,7 +47,7 @@ mpicc -o ee_algorithm main.c ee_algorithm.c iou.c utils.c -lm
 then
 
 ```
-mpiexec -np # of cores ./ee_algorithm
+mpiexec -np #_of_cores ./ee_algorithm
 ```
 
 ## Results
