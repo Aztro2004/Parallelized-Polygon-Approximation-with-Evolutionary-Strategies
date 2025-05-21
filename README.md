@@ -63,4 +63,4 @@ Example of a 100 point individual approximating a sphere.
 
 ## Bibliography
 
-- Open MPI: open-mpi.org
+- Open MPI: https://www.open-mpi.org/
