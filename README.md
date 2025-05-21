@@ -10,7 +10,7 @@ Final proyect for the class of of High Performance Computing at UNAM ENES Unidad
 
 Diego Maldonado Castro: diegomaldonadocastro1805@gmail.com
 
-Features
+## Features
 
 - Evolutionary strategy: (μ + λ) selection
 - Crossover and mutation of 3D shapes (points in space)
