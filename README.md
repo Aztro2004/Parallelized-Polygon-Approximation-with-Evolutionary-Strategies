@@ -4,7 +4,7 @@ This project implements a parallel (μ + λ) evolutionary algorithm for 3D shape
 
 ## About this proyect
 
-Final proyect for the class of of High Performance Computing.
+Final proyect for the class of of High Performance Computing at UNAM ENES Unidad Morelia.
 
 ## Author
 
