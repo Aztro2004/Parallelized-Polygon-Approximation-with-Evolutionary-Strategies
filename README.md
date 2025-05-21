@@ -1,8 +1,5 @@
 # Parallelized-Polygon-Approximation-with-Evolutionary-Strategies
 
-
-## About this proyect
-
 Final proyect for the class of of High Performance Computing at UNAM ENES Unidad Morelia.
 
 ## Author
