@@ -40,7 +40,7 @@ MPI is used to parallelize the fitness evaluation step, significantly improving 
 
 ## Execution
 ```
-mpicc -o ee_algorithm main.c ee_algorithm.c iou.c utils.c -lm
+mpicc -o ee_algorithm main.c ee_algorithm.c -lm
 ```
 
 then
