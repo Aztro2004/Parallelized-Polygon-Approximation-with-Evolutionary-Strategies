@@ -60,6 +60,6 @@ mpiexec -np #_of_cores ./ee_algorithm
 
 Example of a 100 point individual approximating a sphere.
 
-## Tool
+## Used Tool
 
 - Open MPI: https://www.open-mpi.org/
