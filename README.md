@@ -47,12 +47,13 @@ mpicc -o ee_algorithm main.c ee_algorithm.c iou.c utils.c -lm
 then
 
 ```
-mpiexec -np 4 ./ee_algorithm
+mpiexec -np # of cores ./ee_algorithm
 ```
 
 ## Results
 
-<img width="843" alt="Screenshot 2025-05-21 at 11 23 21 a m" src="https://github.com/user-attachments/assets/9a078d81-5a51-45c5-8981-cf4a44132f7b" />
+<img width="747" alt="Screenshot 2025-05-21 at 12 12 59 p m" src="https://github.com/user-attachments/assets/9b790115-b3d7-4543-a9dc-cc020ec6304c" />
+
 
 Example of a 100 point individual approximating a sphere.
 
