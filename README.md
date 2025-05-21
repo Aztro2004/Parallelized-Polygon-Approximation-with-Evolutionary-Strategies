@@ -35,8 +35,6 @@ MPI is used to parallelize the fitness evaluation step, significantly improving 
 - ee_algorithm.c # Evolutionary logic with MPI parallelism
 - ee_algorithm.h # Algorithm interface
 - iou.c / iou.h # 3D IoU fitness evaluation
-- utils.c / utils.h # Utility functions (initialization, save, etc.)
-- Makefile (optional)
 - data/ # Output folder for best individuals
 
 ## Execution
