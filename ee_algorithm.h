@@ -16,7 +16,6 @@ typedef struct {
 
 Point3D* create_sphere_points(int num_points);
 
-// Function to run the EE algorithm
 Individual run_ee_algorithm(
     Point3D* target_shape, 
     int target_size,
@@ -29,23 +28,18 @@ Individual run_ee_algorithm(
     double epsilon0,
     double box_min,
     double box_max,
-    double* execution_time
+    double* total_eval_time,
+    int save_interval
 );
 
-void crossover_individuals(const Individual* parent1, const Individual* parent2, 
-    Individual* child, double crossover_rate);
-    
 void free_individual(Individual* ind);
 
-// Function to save results to file
 void save_individual_to_file(
     const Individual* ind, 
     const char* filename, 
     int G, double tau, double eps0, 
     int lambda, int mu, double box_min, double box_max,
-    double execution_time
+    double eval_time
 );
-
-
 
 #endif // EE_ALGORITHM_H
