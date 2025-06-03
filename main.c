@@ -17,13 +17,13 @@ int main(int argc, char** argv) {
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 
     // Parameters
-    int num_points = 500;
-    int generations = num_points * 3;
-    int population_size = 1000;
+    int num_points = 200;
+    int generations = 4000;
+    int population_size = 200;
     int save_interval = 50;
     double box_min = -1, box_max = 1;
     
-    int mu_size = population_size / 3;
+    int mu_size = population_size / 4;
     int lambda_size = mu_size * 3.0;
     
     double tau = 1/sqrt(num_points);

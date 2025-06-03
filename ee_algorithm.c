@@ -55,7 +55,7 @@ double compute_3d_iou(Point3D* points1, int num_points1, Point3D* points2, int n
     }
     
     int intersection_count = 0;
-    double threshold = 0.1;
+    double threshold = 0.2;
     
     for (int i = 0; i < num_points1; i++) {
         for (int j = 0; j < num_points2; j++) {
