@@ -53,7 +53,7 @@ mpiexec -np #_of_cores ./ee_algorithm
 
 ![evolution](https://github.com/user-attachments/assets/e90a3ba1-f013-4e77-b313-6ca254c67cb3)
 
-Example of a 100 point individual approximating a sphere.
+Example of a 200 point individual approximating a sphere.
 
 ## Dependencies
 
