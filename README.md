@@ -51,9 +51,7 @@ mpiexec -np #_of_cores ./ee_algorithm
 
 ## Results
 
-<img width="747" alt="Screenshot 2025-05-21 at 12 12 59 p m" src="https://github.com/user-attachments/assets/9b790115-b3d7-4543-a9dc-cc020ec6304c" />
-
-
+![evolution](https://github.com/user-attachments/assets/e90a3ba1-f013-4e77-b313-6ca254c67cb3)
 
 Example of a 100 point individual approximating a sphere.
 
