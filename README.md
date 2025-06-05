@@ -55,6 +55,10 @@ mpiexec -np #_of_cores ./ee_algorithm
 
 Example of a 200 point individual approximating a sphere.
 
+![Boxplots](https://github.com/user-attachments/assets/a942fda1-a00c-4f1e-bf14-00acae36c6da)
+
+Review of perforance.
+
 ## Dependencies
 
 - Open MPI: https://www.open-mpi.org/
