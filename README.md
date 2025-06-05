@@ -57,7 +57,7 @@ Example of a 200 point individual approximating a sphere.
 
 ![Boxplots](https://github.com/user-attachments/assets/a942fda1-a00c-4f1e-bf14-00acae36c6da)
 
-Review of performance by number of threads.
+Review of performance by number of threads (100 tests for every number fo threads).
 
 ## Dependencies
 
