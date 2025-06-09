@@ -55,7 +55,7 @@ mpiexec -np #_of_cores ./ee_algorithm
 
 Example of a 200 point individual approximating a sphere.
 
-![Boxplots](https://github.com/user-attachments/assets/a942fda1-a00c-4f1e-bf14-00acae36c6da)
+[boxplot_only.pdf](https://github.com/user-attachments/files/20647590/boxplot_only.pdf)
 
 Review of performance by number of threads (100 tests for every number fo threads).
 
