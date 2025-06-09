@@ -57,7 +57,7 @@ Example of a 200 point individual approximating a sphere.
 
 ![Figure_1](https://github.com/user-attachments/assets/86605c1d-72be-4d4b-837f-bd772858f8ff)
 
-Review of performance by number of threads (100 tests for every number fo threads).
+Review of performance by number of threads (100 tests for every number of threads).
 
 ## Dependencies
 
